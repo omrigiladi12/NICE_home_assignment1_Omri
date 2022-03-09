@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-08T15:34:52 IST" name="TestNICE_Project" finished-at="2022-03-08T15:34:52 IST" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2022-03-08T15:34:52 IST" name="Command line test" finished-at="2022-03-08T15:34:52 IST" duration-ms="34">
+      <class name="TestNICE_Project">
+        <test-method signature="testNICE_project()[pri:0, instance:TestNICE_Project@77888435]" started-at="2022-03-08T15:34:52 IST" name="testNICE_project" finished-at="2022-03-08T15:34:52 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNICE_project -->
+      </class> <!-- TestNICE_Project -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestNICE_Project -->
+</testng-results>
